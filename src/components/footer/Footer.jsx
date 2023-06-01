@@ -6,7 +6,7 @@ export const Footer = () => {
         <footer>
             <div className="footer">
                 <div className="leftContent">
-                <p>&copy; Copyright {new Date().getFullYear()} SayantaN. All Rights Reserved </p>
+                <p>&copy; Copyright {new Date().getFullYear()} Food Landing Page. All Rights Reserved </p>
                 </div>
 
                 <div className="rigthContent">
